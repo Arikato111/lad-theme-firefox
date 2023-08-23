@@ -12,9 +12,9 @@ theme for firefox which can display light or dark mode by following your setting
 
 ## Installing 
 
-- click bellow to view this theme on firefox add-on
+- click firefox icon bellow to view this theme on firefox add-on
 - click install
 
 <a href="https://addons.mozilla.org/en-US/firefox/addon/lad-light-and-dark-theme/">
-    <img width="200" src="https://addons.mozilla.org/static-frontend/459ebe418a9783cd0b80bdd8b98e5faa.svg" alt="firefox add-on">
+   <img width="100" src="https://github.com/Arikato111/Arikato111/raw/main/icons/firefox.svg" alt="firefox">
 </a>
