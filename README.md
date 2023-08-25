@@ -4,7 +4,7 @@
 
 # <p align="center">lad theme firefox</p>
 
-theme for firefox which can display light or dark mode by following your settings
+theme for Firefox which can display light or dark mode by following your settings
 
 ## Example
 
@@ -12,7 +12,7 @@ theme for firefox which can display light or dark mode by following your setting
 
 ## Installing 
 
-- click firefox icon bellow to view this theme on firefox add-on
+- click firefox icon below to view this theme on Firefox add-on
 - click install
 
 <a href="https://addons.mozilla.org/en-US/firefox/addon/lad-light-and-dark-theme/">
