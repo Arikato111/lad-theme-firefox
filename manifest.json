@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "1.0",
+  "version": "1.0.1",
   "name": "light and dark",
   "theme": {
     "images": {
@@ -46,7 +46,7 @@
       "tab_background_text": "rgb(219, 219, 219)",
       "toolbar_field": "rgb(0, 0, 0)",
       "toolbar_field_text": "rgb(255, 255, 255)",
-      "tab_line": "rgb(0, 0, 0)",
+      "tab_line": "rgba(0, 0, 0, 0)",
       "popup": "rgba(0, 0, 0, 0.71)",
       "popup_text": "rgb(255, 252, 252)",
       "button_background_active": "rgb(32, 32, 32)",
