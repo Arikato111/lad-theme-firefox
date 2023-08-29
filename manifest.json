@@ -33,7 +33,7 @@
       "popup_highlight_text": "rgb(0, 0, 0)",
       "popup_highlight": "rgb(227, 227, 227)",
       "toolbar_bottom_separator": "rgb(240, 240, 240)",
-      "toolbar_field_focus": "rgba(255, 255, 255, 0.9)",
+      "toolbar_field_focus": "rgba(255, 255, 255, 0.95)",
       "toolbar_top_separator": "rgb(240, 240, 240)",
       "tab_loading": "rgb(255, 255, 255)"
     }
