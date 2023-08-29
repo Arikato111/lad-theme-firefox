@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "version": "1.0.1",
-  "name": "light and dark",
+  "version": "1.0.3",
+  "name": "lad - light and dark",
   "theme": {
     "images": {
       "additional_backgrounds": [
