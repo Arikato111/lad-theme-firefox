@@ -24,7 +24,7 @@
       "toolbar_field": "rgb(245, 245, 245)",
       "toolbar_field_text": "rgb(0, 0, 0)",
       "tab_line": "rgb(255, 255, 255)",
-      "popup": "rgba(255, 255, 255, 0.9)",
+      "popup": "rgba(255, 255, 255, 0.95)",
       "popup_text": "rgb(0, 0, 0)",
       "button_background_active": "rgb(227, 227, 227)",
       "button_background_hover": "rgb(227, 227, 227)",
