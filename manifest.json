@@ -19,7 +19,7 @@
     "colors": {
       "toolbar": "rgb(255, 255, 255)",
       "toolbar_text": "rgb(49, 49, 49)",
-      "frame": "rgb(245, 245, 245)",
+      "frame": "rgb(243, 245, 247)",
       "tab_background_text": "rgb(43, 43, 43)",
       "toolbar_field": "rgb(245, 245, 245)",
       "toolbar_field_text": "rgb(0, 0, 0)",
