@@ -15,8 +15,9 @@ theme for Firefox which can display light or dark mode by following your setting
 ## Installing
 
 - click firefox icon below to view this theme on Firefox add-on
-- click install
+- click [here](https://addons.mozilla.org/en-US/firefox/addon/lad-light-and-dark-theme/) to install.
+- or click firefox icon to install.
 
 <a href="https://addons.mozilla.org/en-US/firefox/addon/lad-light-and-dark-theme/">
-   <img width="100" src="https://github.com/Arikato111/Arikato111/raw/main/icons/firefox.svg" alt="firefox">
+   <img width="50" src="https://github.com/Arikato111/Arikato111/raw/main/icons/firefox.svg" alt="firefox">
 </a>
